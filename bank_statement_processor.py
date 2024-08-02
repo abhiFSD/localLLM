@@ -86,7 +86,7 @@ DEFAULT_CATEGORIES = {
         "remark": "Business expenses"
     },
     "Tax": {
-        "keywords": ["Shomnath Ghosh", "tax", "Income tax"],
+        "keywords": ["tax", "Income tax"],
          "remark": "TAX related expenses"
     },
     "Miscellaneous": {
