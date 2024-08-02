@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# macOS system files
+.DS_Store
+
+# Processed statements output directory
+processed_statements/
+
+# IDE-specific files (optional, uncomment if needed)
+# .vscode/
+# .idea/
+
+# Logs (if your script generates any)
+*.log
+
+# Environment variables file (if you use one)
+.env
